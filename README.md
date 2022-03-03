@@ -1,1 +1,1 @@
-# Multi-Source-Tranfer-Learning
+# Multi-Source Transfer Learning
